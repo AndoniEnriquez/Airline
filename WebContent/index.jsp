@@ -116,13 +116,13 @@
 			</div>
 		</div>
 	</div>
-	</div>
-	<p>
-		&copy 2016 Gonenpru Corporation</a>
-	</p>
-	</footer>
-	<script src="js/jquery.nicescroll.js"></script>
-	<script src="js/scripts.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+</div>
+<footer>
+	<p>&copy 2016 Gonenpru Corporation</p>
+</footer>
+</section>
+<script src="js/jquery.nicescroll.js"></script>
+<script src="js/scripts.js"></script>
+<script src="js/bootstrap.min.js"></script>
 </body>
 </html>
